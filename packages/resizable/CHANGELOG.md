@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/GiyoMoon/corvu/compare/@corvu/resizable@0.2.1...@corvu/resizable@0.2.2) (2024-05-27)
+
+
+### Features
+
+* wip ([0347157](https://github.com/GiyoMoon/corvu/commit/03471578335a479519c460418f7d31bb1a39c0c4))
+
 ## [0.2.1](https://github.com/corvudev/corvu/compare/@corvu/resizable@0.2.0...@corvu/resizable@0.2.1) (2024-05-26)
 
 
