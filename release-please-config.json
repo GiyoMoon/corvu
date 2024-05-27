@@ -26,7 +26,8 @@
       "component": "@corvu/popover"
     },
     "packages/resizable": {
-      "component": "@corvu/resizable"
+      "component": "@corvu/resizable",
+      "exclude-paths": ["README.md"]
     },
     "packages/solid-focus-trap": {
       "component": "solid-focus-trap"
